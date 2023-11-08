@@ -17,5 +17,66 @@
     "password": "password123",
     "status": "Inactivo"
   }
+],
+"dishes": [
+    {
+        "id":1,
+        "dishName":"Espaguetti a la boloñesa",
+        "dishDescription":"Un plato clásico de pasta con una rica salsa de carne, tomate, y hierbas, acompañado de queso parmesano rallado.",
+        "price":120,
+        "category":"Plato fuerte",
+        "dishPic":"",
+        "status":"Disponible"
+    },
+    {
+        "id":2,
+        "dishName":"Pizza Margarita",
+        "dishDescription":"Una deliciosa pizza con base de tomate, mozzarella fresca, albahaca y un toque de aceite de oliva.",
+        "price":140,
+        "category":"Plato fuerte",
+        "dishPic":"",
+        "status":"Disponible"
+    },
+    {
+        "id":3,
+        "dishName":"Coctel de fresa",
+        "dishDescription":"Un refrescante coctel de fresas frescas, jugo de naranja y un toque de licor, servido en un vaso alto con hielo.",
+        "price":90,
+        "category":"Bebidas aloholicas",
+        "dishPic":"",
+        "status":"Disponible"
+    }
+],
+"reserves": [
+    {
+        "id":1,
+        "date":"08/11/2023",
+        "numberGuests":8,
+        "time":"2:22",
+        "name":"Jose Eduardo Ramírez",
+        "phone":"3312780921",
+        "ocasion":"Cumpleaños en familia",
+        "coments":"Por favor, organicen una mesa grande para nuestra familia y hagan que el pastel de cumpleaños sea una sorpresa para el homenajeado. Sería genial si pudieran incluir una tarjeta de cumpleaños también."
+    },
+    {
+        "id":2,
+        "date":"08/11/2023",
+        "numberGuests":2,
+        "time":"9:30",
+        "name":"Alejandro Perez Olmedo",
+        "phone":"3334737914",
+        "ocasion":"Cena en pareja",
+        "coments":"Queremos una mesa romántica con velas y flores. Por favor, hagan recomendaciones de vinos y platillos que sean ideales para compartir."
+    },
+    {
+        "id":3,
+        "date":"07/11/2023",
+        "numberGuests":8,
+        "time":"1:20",
+        "name":"Kelly Torrescano Castellanos",
+        "phone":"3314854685",
+        "ocasion":"Baby shower",
+        "coments":"Necesitamos espacio para decorar y organizar juegos. Por favor, proporcionen opciones de menú que sean aptas para una reunión de mujeres embarazadas y no embarazadas."
+    }
 ]
 }
