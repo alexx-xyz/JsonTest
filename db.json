@@ -1,6 +1,21 @@
-{
+{ "users": [
+    {
     "id": 1,
     "email": "test@gamil.com",
     "password": "password123",
     "status": "Activo"
+  },
+  {
+    "id": 2,
+    "email": "test2@gamil.com",
+    "password": "password123",
+    "status": "Activo"
+  },
+  {
+    "id": 3,
+    "email": "test3@gamil.com",
+    "password": "password123",
+    "status": "Inactivo"
   }
+]
+}
