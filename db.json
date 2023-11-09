@@ -3,6 +3,7 @@
     "id": 1,
     "name": "Alejandro Magaña Hernandez",
     "email": "test@gamil.com",
+    "phone": "3312780921",
     "password": "password123",
     "role": "Admin",
     "status": "Activo"
@@ -11,14 +12,16 @@
     "id": 2,
     "name": "Juan Sebastian Aguirre Siordia",
     "email": "test2@gamil.com",
+    "phone": "3314854685",
     "password": "password123",
     "role": "Mesero",
     "status": "Activo"
   },
   {
     "id": 3,
-    "email": "test3@gamil.com",
     "name": "Cesar Abrahm Calvario Gutierrez",
+    "email": "test3@gamil.com",
+    "phone": "3334737914",
     "password": "password123",
     "role": "Cocinero",
     "status": "Inactivo"
