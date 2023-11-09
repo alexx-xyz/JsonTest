@@ -1,12 +1,14 @@
 { "users": [
     {
     "id": 1,
+    "name": "Alejandro Magaña Hernandez",
     "email": "test@gamil.com",
     "password": "password123",
     "status": "Activo"
   },
   {
     "id": 2,
+    "name": "Juan Sebastian Aguirre Siordia",
     "email": "test2@gamil.com",
     "password": "password123",
     "status": "Activo"
@@ -14,6 +16,7 @@
   {
     "id": 3,
     "email": "test3@gamil.com",
+    "name": "Cesar Abrahm Calvario Gutierrez",
     "password": "password123",
     "status": "Inactivo"
   }
