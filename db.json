@@ -54,6 +54,96 @@
         "category":"Bebidas aloholicas",
         "dishPic":"https://iili.io/JBEPho7.md.jpg",
         "status":"Disponible"
+    },
+    {
+        "id":4,
+        "dishName":"Coctel de fresa",
+        "dishDescription":"Un refrescante coctel de fresas frescas, jugo de naranja y un toque de licor, servido en un vaso alto con hielo.",
+        "price":90,
+        "category":"Bebidas aloholicas",
+        "dishPic":"https://iili.io/JBEPho7.md.jpg",
+        "status":"Disponible"
+    },
+    {
+        "id":3,
+        "dishName":"Coctel de fresa",
+        "dishDescription":"Un refrescante coctel de fresas frescas, jugo de naranja y un toque de licor, servido en un vaso alto con hielo.",
+        "price":90,
+        "category":"Bebidas aloholicas",
+        "dishPic":"https://iili.io/JBEPho7.md.jpg",
+        "status":"Disponible"
+    },
+    {
+        "id":3,
+        "dishName":"Coctel de fresa",
+        "dishDescription":"Un refrescante coctel de fresas frescas, jugo de naranja y un toque de licor, servido en un vaso alto con hielo.",
+        "price":90,
+        "category":"Bebidas aloholicas",
+        "dishPic":"https://iili.io/JBEPho7.md.jpg",
+        "status":"Disponible"
+    },
+    {
+        "id":3,
+        "dishName":"Coctel de fresa",
+        "dishDescription":"Un refrescante coctel de fresas frescas, jugo de naranja y un toque de licor, servido en un vaso alto con hielo.",
+        "price":90,
+        "category":"Bebidas aloholicas",
+        "dishPic":"https://iili.io/JBEPho7.md.jpg",
+        "status":"Disponible"
+    },
+    {
+        "id":3,
+        "dishName":"Coctel de fresa",
+        "dishDescription":"Un refrescante coctel de fresas frescas, jugo de naranja y un toque de licor, servido en un vaso alto con hielo.",
+        "price":90,
+        "category":"Bebidas aloholicas",
+        "dishPic":"https://iili.io/JBEPho7.md.jpg",
+        "status":"Disponible"
+    },
+    {
+        "id":3,
+        "dishName":"Coctel de fresa",
+        "dishDescription":"Un refrescante coctel de fresas frescas, jugo de naranja y un toque de licor, servido en un vaso alto con hielo.",
+        "price":90,
+        "category":"Bebidas aloholicas",
+        "dishPic":"https://iili.io/JBEPho7.md.jpg",
+        "status":"Disponible"
+    },
+    {
+        "id":3,
+        "dishName":"Coctel de fresa",
+        "dishDescription":"Un refrescante coctel de fresas frescas, jugo de naranja y un toque de licor, servido en un vaso alto con hielo.",
+        "price":90,
+        "category":"Bebidas aloholicas",
+        "dishPic":"https://iili.io/JBEPho7.md.jpg",
+        "status":"Disponible"
+    },
+    {
+        "id":3,
+        "dishName":"Coctel de fresa",
+        "dishDescription":"Un refrescante coctel de fresas frescas, jugo de naranja y un toque de licor, servido en un vaso alto con hielo.",
+        "price":90,
+        "category":"Bebidas aloholicas",
+        "dishPic":"https://iili.io/JBEPho7.md.jpg",
+        "status":"Disponible"
+    },
+    {
+        "id":3,
+        "dishName":"Coctel de fresa",
+        "dishDescription":"Un refrescante coctel de fresas frescas, jugo de naranja y un toque de licor, servido en un vaso alto con hielo.",
+        "price":90,
+        "category":"Bebidas aloholicas",
+        "dishPic":"https://iili.io/JBEPho7.md.jpg",
+        "status":"Disponible"
+    },
+    {
+        "id":3,
+        "dishName":"Coctel de fresa",
+        "dishDescription":"Un refrescante coctel de fresas frescas, jugo de naranja y un toque de licor, servido en un vaso alto con hielo.",
+        "price":90,
+        "category":"Bebidas aloholicas",
+        "dishPic":"https://iili.io/JBEPho7.md.jpg",
+        "status":"Disponible"
     }
 ],
 "reserves": [
