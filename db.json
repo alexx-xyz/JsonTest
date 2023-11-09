@@ -4,6 +4,7 @@
     "name": "Alejandro Magaña Hernandez",
     "email": "test@gamil.com",
     "password": "password123",
+    "role": "Admin",
     "status": "Activo"
   },
   {
@@ -11,6 +12,7 @@
     "name": "Juan Sebastian Aguirre Siordia",
     "email": "test2@gamil.com",
     "password": "password123",
+    "role": "Mesero",
     "status": "Activo"
   },
   {
@@ -18,6 +20,7 @@
     "email": "test3@gamil.com",
     "name": "Cesar Abrahm Calvario Gutierrez",
     "password": "password123",
+    "role": "Cocinero",
     "status": "Inactivo"
   }
 ],
