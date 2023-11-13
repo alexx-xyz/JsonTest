@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "dishName": "Espaguetti a la boloñesa",
+    "dishDescription": "Un plato clásico de pasta con una rica salsa de carne, tomate, y hierbas, acompañado de queso parmesano rallado.",
+    "price": 120,
+    "category": "Plato fuerte",
+    "dishPic": "https://iili.io/JBE69mN.md.jpg",
+    "status": "Disponible"
+  },
+  {
+    "id": 2,
+    "dishName": "Pizza Margarita",
+    "dishDescription": "Una deliciosa pizza con base de tomate, mozzarella fresca, albahaca y un toque de aceite de oliva.",
+    "price": 140,
+    "category": "Plato fuerte",
+    "dishPic": "https://iili.io/JBE6tZ7.th.jpg",
+    "status": "Disponible"
+  },
+  {
+    "id": 3,
+    "dishName": "Coctel de fresa",
+    "dishDescription": "Un refrescante coctel de fresas frescas, jugo de naranja y un toque de licor, servido en un vaso alto con hielo.",
+    "price": 90,
+    "category": "Bebidas aloholicas",
+    "dishPic": "https://iili.io/JBEPho7.md.jpg",
+    "status": "Disponible"
+  }
+]

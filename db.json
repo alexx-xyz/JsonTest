@@ -3,10 +3,10 @@
     "id": 1,
     "name": "Alejandro Magaña Hernandez",
     "email": "test@gmail.com",
-    "phone": "3312780921",
+    "phoneNumber": "3312780921",
     "password": "password123",
     "role": "Admin",
-    "status": "Activo"
+    "profilePic": "https://i.ibb.co/Ct2cVLB/Whats-App-Image-2023-11-13-at-9-42-43-AM.jpg"
   },
   {
     "id": 2,
@@ -15,7 +15,7 @@
     "phone": "3314854685",
     "password": "password123",
     "role": "Mesero",
-    "status": "Activo"
+    "profilePic": "https://i.ibb.co/fDr90BD/Whats-App-Image-2023-11-13-at-9-42-42-AM.jpg"
   },
   {
     "id": 3,
@@ -24,7 +24,7 @@
     "phone": "3334737914",
     "password": "password123",
     "role": "Cocinero",
-    "status": "Inactivo"
+    "profilePic": "https://i.ibb.co/CbbD0Sh/Whats-App-Image-2023-11-13-at-9-42-43-AM-1.jpg"
   }
 ],
 "dishes": [
