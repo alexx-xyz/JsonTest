@@ -25,6 +25,15 @@
     "password": "password123",
     "role": "Cocinero",
     "status": "Inactivo"
+  },
+  {
+    "id": 3,
+    "name": "Samuel Arturo Del Rio Garcia",
+    "email": "test4@gmail.com",
+    "phone": "3345896889",
+    "password": "password123",
+    "role": "Cajero",
+    "status": "Inactivo"
   }
 ],
 "dishes": [
