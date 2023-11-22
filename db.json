@@ -65,79 +65,7 @@
         "status":"Disponible"
     },
     {
-        "id":3,
-        "dishName":"Coctel de fresa",
-        "dishDescription":"Un refrescante coctel de fresas frescas, jugo de naranja y un toque de licor, servido en un vaso alto con hielo.",
-        "price":90,
-        "category":"Bebidas aloholicas",
-        "dishPic":"https://iili.io/JBEPho7.md.jpg",
-        "status":"Disponible"
-    },
-    {
-        "id":3,
-        "dishName":"Coctel de fresa",
-        "dishDescription":"Un refrescante coctel de fresas frescas, jugo de naranja y un toque de licor, servido en un vaso alto con hielo.",
-        "price":90,
-        "category":"Bebidas aloholicas",
-        "dishPic":"https://iili.io/JBEPho7.md.jpg",
-        "status":"Disponible"
-    },
-    {
-        "id":3,
-        "dishName":"Coctel de fresa",
-        "dishDescription":"Un refrescante coctel de fresas frescas, jugo de naranja y un toque de licor, servido en un vaso alto con hielo.",
-        "price":90,
-        "category":"Bebidas aloholicas",
-        "dishPic":"https://iili.io/JBEPho7.md.jpg",
-        "status":"Disponible"
-    },
-    {
-        "id":3,
-        "dishName":"Coctel de fresa",
-        "dishDescription":"Un refrescante coctel de fresas frescas, jugo de naranja y un toque de licor, servido en un vaso alto con hielo.",
-        "price":90,
-        "category":"Bebidas aloholicas",
-        "dishPic":"https://iili.io/JBEPho7.md.jpg",
-        "status":"Disponible"
-    },
-    {
-        "id":3,
-        "dishName":"Coctel de fresa",
-        "dishDescription":"Un refrescante coctel de fresas frescas, jugo de naranja y un toque de licor, servido en un vaso alto con hielo.",
-        "price":90,
-        "category":"Bebidas aloholicas",
-        "dishPic":"https://iili.io/JBEPho7.md.jpg",
-        "status":"Disponible"
-    },
-    {
-        "id":3,
-        "dishName":"Coctel de fresa",
-        "dishDescription":"Un refrescante coctel de fresas frescas, jugo de naranja y un toque de licor, servido en un vaso alto con hielo.",
-        "price":90,
-        "category":"Bebidas aloholicas",
-        "dishPic":"https://iili.io/JBEPho7.md.jpg",
-        "status":"Disponible"
-    },
-    {
-        "id":3,
-        "dishName":"Coctel de fresa",
-        "dishDescription":"Un refrescante coctel de fresas frescas, jugo de naranja y un toque de licor, servido en un vaso alto con hielo.",
-        "price":90,
-        "category":"Bebidas aloholicas",
-        "dishPic":"https://iili.io/JBEPho7.md.jpg",
-        "status":"Disponible"
-    },
-    {
-        "id":3,
-        "dishName":"Coctel de fresa",
-        "dishDescription":"Un refrescante coctel de fresas frescas, jugo de naranja y un toque de licor, servido en un vaso alto con hielo.",
-        "price":90,
-        "category":"Bebidas aloholicas",
-        "dishPic":"https://iili.io/JBEPho7.md.jpg",
-        "status":"Disponible"
-    },
-    {
-        "id":3,
+        "id":4,
         "dishName":"Coctel de fresa",
         "dishDescription":"Un refrescante coctel de fresas frescas, jugo de naranja y un toque de licor, servido en un vaso alto con hielo.",
         "price":90,
@@ -176,6 +104,35 @@
         "phone":"3314854685",
         "ocasion":"Baby shower",
         "coments":"Necesitamos espacio para decorar y organizar juegos. Por favor, proporcionen opciones de menú que sean aptas para una reunión de mujeres embarazadas y no embarazadas."
+    }
+],
+"orders": [
+    {
+        "id": 1,
+        "dateOrder": "10/11/2023",
+        "orderName": "Mesa 6",
+        "customer_id": 1,
+        "kind":"Para llevar",
+        "collectOrder":"10/11/2023",
+        "status":"Abierta"
+    },
+    {
+        "id": 2,
+        "dateOrder": "16/11/2023",
+        "orderName": "Mesa 9",
+        "customer_id": 2,
+        "kind":"En restaurante",
+        "collectOrder":"16/11/2023",
+        "status":"Pendiente"
+    },
+    {
+        "id": 3,
+        "dateOrder": "22/11/2023",
+        "orderName": "Mesa 10",
+        "customer_id": 3,
+        "kind":"Para llevar",
+        "collectOrder":"22/11/2023",
+        "status":"Cerrada"
     }
 ]
 }
