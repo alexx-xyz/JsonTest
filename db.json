@@ -12,7 +12,7 @@
     "id": 2,
     "name": "Juan Sebastian Aguirre Siordia",
     "email": "test2@gmail.com",
-    "phone": "3314854685",
+    "phoneNumber": "3314854685",
     "password": "password123",
     "role": "Mesero",
     "profilePic": "https://i.ibb.co/fDr90BD/Whats-App-Image-2023-11-13-at-9-42-42-AM.jpg"
@@ -21,10 +21,19 @@
     "id": 3,
     "name": "Cesar Abrahm Calvario Gutierrez",
     "email": "test3@gmail.com",
-    "phone": "3334737914",
+    "phoneNumber": "3334737914",
     "password": "password123",
     "role": "Cocinero",
     "profilePic": "https://i.ibb.co/CbbD0Sh/Whats-App-Image-2023-11-13-at-9-42-43-AM-1.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Samuel Arturo Del Rio Garcia",
+    "email": "test4@gmail.com",
+    "phoneNumber": "3345896889",
+    "password": "password123",
+    "role": "Cajero",
+    "profilePic": "https://i.ibb.co/LrXvv7V/Whats-App-Image-2023-11-15-at-4-06-29-PM.jpg"
   }
 ],
 "dishes": [
