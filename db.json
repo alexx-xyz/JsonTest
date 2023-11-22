@@ -119,7 +119,7 @@
     {
         "id": 1,
         "dateOrder": "10/11/2023",
-        "orderName": "Mesa 6",
+        "orderName": "6",
         "customer_id": 1,
         "kind":"Para llevar",
         "collectOrder":"10/11/2023",
@@ -128,7 +128,7 @@
     {
         "id": 2,
         "dateOrder": "16/11/2023",
-        "orderName": "Mesa 9",
+        "orderName": "9",
         "customer_id": 2,
         "kind":"En restaurante",
         "collectOrder":"16/11/2023",
@@ -137,7 +137,7 @@
     {
         "id": 3,
         "dateOrder": "22/11/2023",
-        "orderName": "Mesa 10",
+        "orderName": "10",
         "customer_id": 3,
         "kind":"Para llevar",
         "collectOrder":"22/11/2023",
